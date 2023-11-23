@@ -1,0 +1,25 @@
+{
+    "params": 
+    {
+       "local_uri": "mysql://root:@localhost/quantum_codebreakers",
+       "prod_uri": "mysql://root:@localhost/quantum_codebreakers",
+       "fb_url": "https://facebook.com/quantum_codebreakers",
+       "tw_url": "https://twitter.com/quantum_codebreakers",
+       "gh_url": "https://github.com/quantum_codebreakers",
+       "gmail-user": "sdslab7@gmail.com",
+       "gmail-password": "tldzzxqluqjitjqk",
+       "about_p1": "this is my first blog website using flask now this is second line  and this is third line ",
+       "about_p2": "this is second paragraph",
+       "about_p3": "this is third paragraph",
+       "website_title": "Quantum Codebreakers",
+       "tagline": "I am quantum codebreaker",
+       "no_of_posts": 3,
+       "login_image" : "login.png",
+       "admin_user": "quantum",
+       "admin_password": "admin123",
+       "upload_location": "E:\\flask\\static"
+
+       
+    
+    }
+}
